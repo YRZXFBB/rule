@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,browserleaks.com
 DOMAIN-SUFFIX,firefox.com
 DOMAIN-SUFFIX,lingualeo.com
 DOMAIN-SUFFIX,hellodk.cn
+DOMAIN-SUFFIX,91ajs.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
